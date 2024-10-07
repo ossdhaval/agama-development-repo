@@ -1,3 +1,0 @@
-Flow org.jans.agama-pw-wrapper
-     Basepath ""
-auth-passed = Trigger org.gluu.agama.pw.main 
