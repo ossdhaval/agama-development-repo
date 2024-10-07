@@ -13,9 +13,7 @@
             "wrapper"
         ],
         "noDirectLaunch": [],
-        "configs": {
-            "org.jans.agama-pw-wrapper": {}
-        },
+        "configs": {},
         "name": "agama-pw-wrapper"
     }
 }
