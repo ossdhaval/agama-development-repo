@@ -1,2 +1,3 @@
 Flow ogr.agama.pw.wrapper
      Basepath ""
+auth-passed = Trigger ogr.agama.pw.wrapper 
