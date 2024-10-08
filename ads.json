@@ -14,7 +14,8 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "ogr.agama.pw.wrapper": {}
+            "ogr.agama.pw.wrapper": {},
+            "": {}
         },
         "name": "agama-pw-wrapper"
     }
