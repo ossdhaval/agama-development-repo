@@ -1,3 +1,0 @@
-Flow org.agama.pw.wrapper.flow
-     Basepath ""
-authPassed = Trigger org.agama.pw.wrapper 
