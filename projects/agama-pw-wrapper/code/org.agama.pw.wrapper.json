@@ -34,10 +34,66 @@
 				"width": 170,
 				"height": 123
 			},
+			"selected": false
+		},
+		{
+			"id": "triggerNode-25f9e0ac-1054-4323-97df-f7eb58302a46",
+			"type": "triggerNode",
+			"position": {
+				"x": 280,
+				"y": 30
+			},
+			"data": {
+				"id": "triggerNode-25f9e0ac-1054-4323-97df-f7eb58302a46",
+				"type": "triggerNode",
+				"position": {
+					"x": 280,
+					"y": 30
+				},
+				"previousNodeId": "startNode-8ec73e9f-02d8-48bf-9eff-b6b73bdb9fe4",
+				"agamaData": {
+					"nodeIcon": "fluent-mdl2:trigger-approval",
+					"flowFileName": "org.agama.pw.wrapper",
+					"arguments": [],
+					"asssignedVariableName": "authpassed",
+					"exceptionVariableField": "",
+					"nodeColor": "",
+					"titleColor": "",
+					"descColor": "",
+					"displayName": "",
+					"hasComment": true,
+					"comment": "",
+					"overrides": []
+				}
+			},
+			"measured": {
+				"width": 170,
+				"height": 123
+			},
 			"selected": true
 		}
 	],
-	"edges": [],
+	"edges": [
+		{
+			"id": "startNode-8ec73e9f-02d8-48bf-9eff-b6b73bdb9fe4-triggerNode-25f9e0ac-1054-4323-97df-f7eb58302a46",
+			"type": "default",
+			"source": "startNode-8ec73e9f-02d8-48bf-9eff-b6b73bdb9fe4",
+			"target": "triggerNode-25f9e0ac-1054-4323-97df-f7eb58302a46",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"label": "",
+			"labelBgStyle": {
+				"fill": "#009688",
+				"color": "#ffffff",
+				"fillOpacity": 0.7
+			},
+			"labelShowBg": true,
+			"sourceHandle": "source_startNode-8ec73e9f-02d8-48bf-9eff-b6b73bdb9fe4"
+		}
+	],
 	"viewport": {
 		"x": 0,
 		"y": 0,
