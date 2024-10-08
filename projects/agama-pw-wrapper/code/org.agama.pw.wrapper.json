@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "startNode-8ec73e9f-02d8-48bf-9eff-b6b73bdb9fe4",
+      "type": "startNode",
+      "sourcePosition": "right",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "data": {
+        "id": "startNode-8ec73e9f-02d8-48bf-9eff-b6b73bdb9fe4",
+        "type": "startNode",
+        "position": {
+          "x": 30,
+          "y": 40
+        },
+        "agamaData": {
+          "isTopLevelFlow": true,
+          "basepath": "",
+          "configParams": "{}",
+          "nodeIcon": "material-symbols:line-start-square",
+          "timeout": "",
+          "inputs": "",
+          "configs": "",
+          "flowname": "org.agama.pw.wrapper",
+          "displayName": "Agama PW wrapper flow",
+          "creationDate": "08/10/2024",
+          "hasComment": true,
+          "comment": ""
+        }
+      }
+    }
+  ]
+}
