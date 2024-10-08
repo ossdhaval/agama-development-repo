@@ -55,7 +55,7 @@
 					"nodeIcon": "fluent-mdl2:trigger-approval",
 					"flowFileName": "org.agama.pw.wrapper",
 					"arguments": [],
-					"asssignedVariableName": "authpassed",
+					"asssignedVariableName": "auth-passed",
 					"exceptionVariableField": "",
 					"nodeColor": "",
 					"titleColor": "",
